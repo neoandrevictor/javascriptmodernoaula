@@ -1,0 +1,11 @@
+console.log("===TIPO DE DADOS===");
+var nome="André";
+console.log("nome",nome,typeof(nome));
+var idade=30;
+console.log("idade",idade,typeof(idade));
+var magro=true;
+console.log("magro",magro,typeof(magro));
+var nula=null;
+console.log("nula",nula,typeof(nula));
+var indefinida;
+console.log("indefinida",indefinida,typeof(indefinida));
